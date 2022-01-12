@@ -1,2 +1,11 @@
+#webpage-title{
+    color: chocolate;
+    text-align: center;
+}
 
+
+.dotted-border{
+    border-style: dotted;
+    border-color: black;
+}
 
