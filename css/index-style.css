@@ -1,11 +1,24 @@
 #webpage-title{
     color: chocolate;
     text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 
 .dotted-border{
     border-style: dotted;
     border-color: black;
+}
+
+.recipe-list{
+    align-self: center;
+}
+
+.recipe-list *{
+    color: brown;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    padding: 30px;
+    
 }
 
