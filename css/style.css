@@ -36,3 +36,8 @@
     color: white;
 }
 
+.recipe-main-image{
+    /* Tried centering, but failed lol */
+    margin-left: 50%;
+}
+
